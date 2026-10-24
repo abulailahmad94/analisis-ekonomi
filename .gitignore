@@ -1,0 +1,16 @@
+# R
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj.user/
+
+# Data temporary
+*.tmp
+*.temp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
